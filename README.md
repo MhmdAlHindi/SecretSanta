@@ -23,17 +23,18 @@ each participant receives a *pre-generated SoraAI video* of the person they’re
 ---
 
 ## 🚀 Setup
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/YOURUSERNAME/secret-santa-ai.git
-   cd secret-santa-ai
-   
-2. Install Requirements:
-    ```bash
-    pip install -r requirements.txt
+1. Download the HTMl and app.py files, and place them in the same folder.
 
-3. Edit secret_santa.py with you participant info and Gmail App password.
-   
-4. Run:
+2. Install the flask dependancies:
    ```bash
-   python secret_santa.py
+   python -m pip install flask
+
+3. Configure your Gmail App Password and add it to the app.py file
+   
+4. Run the following command in the terminal in the file:
+   ```bash
+   python app.py
+   
+5. Go to your browser: 
+    ```bash
+    http://127.0.0.1:5000/
