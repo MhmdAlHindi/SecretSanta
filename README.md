@@ -1,7 +1,8 @@
 # 🎅 Secret Santa Video Emailer
 
 A Python-based Secret Santa organizer that adds an **AI-powered twist** —  
-each participant receives a *pre-generated SoraAI video* of the person they’re buying a gift for, delivered secretly via email.
+each participant can receive a *pre-generated AI video* of the person they’re buying a gift for, delivered secretly via email.
+Don't want to attach videos? No problem, just uncheck the box!
 
 ---
 
